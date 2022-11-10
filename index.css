@@ -1,0 +1,73 @@
+#calc {
+    display: flex;
+    margin: 80px auto;
+    width: 50%;
+    background-color: rgb(205, 199, 199);
+    height: 600px;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.div1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.div2 {
+    background-color: white;
+    display: flex;
+    height: 20%;
+    margin-top: 20px;
+}
+
+.div3 {
+    background-color: rgb(205, 199, 199);
+    display: flex;
+    height: 58%;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.num {
+    height: 20%;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    flex-direction: row
+}
+
+.button {
+    width: 25%;
+    background-color: white;
+    height: 100%;
+    margin: 3px;
+}
+
+.op {
+    background-color: tomato;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ip {
+
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.zero {
+    width: 51%;
+}
