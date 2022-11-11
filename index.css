@@ -56,6 +56,9 @@
     height: 100%;
     margin: 3px;
 }
+.button:hover{
+    background-color: orange;
+}
 
 .op {
     background-color: tomato;
