@@ -23,6 +23,11 @@
     display: flex;
     height: 20%;
     margin-top: 20px;
+    justify-content: end;
+    align-items: center;
+    flex-direction: row;
+    padding-right: 30px;
+    font-size: 1.3rem;
 }
 
 .div3 {
